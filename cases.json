@@ -1,0 +1,78 @@
+[
+  {
+    "id": "svt",
+    "title": "The sudden palpitations",
+    "label": "Case 17",
+    "rhythm": "Regular narrow-complex tachycardia (presumed AVNRT/AVRT)",
+    "presentation": "35-year-old man with hypertension and anxiety. Palpitations started suddenly 15 minutes ago, with fatigue and shortness of breath but no chest pain.",
+    "hr": "170",
+    "bp": "110/70",
+    "spo2": "97%",
+    "question": "What is your first management step in this stable patient with regular narrow-complex tachycardia?",
+    "options": [
+      "Modified Valsalva maneuver",
+      "Immediate unsynchronized defibrillation",
+      "IV amiodarone",
+      "IV diltiazem before identifying the rhythm"
+    ],
+    "correct": 0,
+    "teaching": "The rhythm is regular and narrow; a re-entrant SVT is likely. In a stable patient, try vagal maneuvers (preferably modified Valsalva), then adenosine when appropriate. Reassess stability continuously. Obtain a post-conversion 12-lead to look for pre-excitation."
+  },
+  {
+    "id": "af",
+    "title": "The irregular tachycardia",
+    "label": "Case 18",
+    "rhythm": "Atrial fibrillation with rapid ventricular response",
+    "presentation": "57-year-old man with hyperlipidemia and diabetes has had palpitations and shortness of breath for 72 hours. Sent from clinic for an abnormal ECG.",
+    "hr": "146",
+    "bp": "100/70",
+    "spo2": "98%",
+    "question": "Which consideration most changes your management of this patient?",
+    "options": [
+      "Duration of AF, hemodynamics, anticoagulation and stroke risk",
+      "Give adenosine to terminate the rhythm",
+      "Perform elective cardioversion without assessing stroke risk",
+      "Assume every irregular narrow-complex rhythm is MAT"
+    ],
+    "correct": 0,
+    "teaching": "Evaluate stability and causes of AF. In stable AF with RVR, individualize rate/rhythm strategy and anticoagulation assessment. With symptoms for 72 hours, do not casually cardiovert without considering thromboembolic precautions. Instability attributable to AF warrants urgent synchronized cardioversion."
+  },
+  {
+    "id": "flutter",
+    "title": "The rate of 150 trap",
+    "label": "Case 19",
+    "rhythm": "Atrial flutter with 2:1 AV conduction",
+    "presentation": "44-year-old man with a prior \u201cheart problem,\u201d previous cardioversion, and prescribed rivaroxaban presents with palpitations.",
+    "hr": "150",
+    "bp": "120/80",
+    "spo2": "99%",
+    "question": "A very regular narrow-complex rhythm around 150 bpm should make you particularly consider what?",
+    "options": [
+      "Atrial flutter with 2:1 conduction",
+      "Multifocal atrial tachycardia",
+      "Torsades de pointes",
+      "Ventricular fibrillation"
+    ],
+    "correct": 0,
+    "teaching": "Typical atrial flutter often has atrial activity near 300/min and 2:1 AV conduction, creating a ventricular rate around 150/min. Examine inferior leads and V1 for flutter activity. Evaluate adherence to anticoagulation, duration, stroke risk, and stability when choosing treatment."
+  },
+  {
+    "id": "mat",
+    "title": "The COPD exacerbation",
+    "label": "Case 20",
+    "rhythm": "Multifocal atrial tachycardia",
+    "presentation": "73-year-old woman with extensive smoking history presents with dyspnea, increased sputum production, and multiple prior admissions for similar symptoms.",
+    "hr": "115",
+    "bp": "120/70",
+    "spo2": "90%",
+    "question": "What is the highest-yield initial priority for this rhythm in this scenario?",
+    "options": [
+      "Treat the underlying pulmonary illness; correct oxygenation and electrolyte abnormalities",
+      "Immediate synchronized cardioversion for any MAT",
+      "Adenosine to permanently terminate MAT",
+      "Anticoagulate all MAT patients as if they have atrial fibrillation"
+    ],
+    "correct": 0,
+    "teaching": "MAT features at least three P-wave morphologies with variable PP/PR intervals and an isoelectric baseline. Treat the underlying pulmonary disease and correct relevant hypoxemia, potassium and magnesium disturbances. Cardioversion generally does not terminate MAT."
+  }
+]
